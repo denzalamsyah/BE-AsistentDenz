@@ -1,61 +1,80 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Logo Laravel"></a></p>
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Status Pembuatan"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Unduhan"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Versi Stabil Terbaru"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="Lisensi"></a>
 </p>
 
-## About Laravel
+## Tentang Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Denz Think — Situs web UI/UX modern yang dikembangkan menggunakan React.js, Tailwind CSS, dan Laravel 11 sebagai backend. Desainnya ramping, animasi lancar, dan pengalaman pengguna secara keseluruhan menetapkan standar tinggi, berfungsi sebagai referensi atau inspirasi untuk aplikasi atau situs web modern di masa mendatang.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+-   Vite
+-   React.js
+-   Tailwind CSS
+-   Laravel 11
 
-## Learning Laravel
+## <a name="features">🔋 Fitur</a>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+👉 **Beautiful Sections**: Termasuk hero, layanan, fitur, cara penggunaan, peta jalan, harga, footer, dan header.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+👉 **Parallax Animations**: Efek menarik yang dipicu oleh gerakan mouse dan pengguliran
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+👉 **Complex UI Geometry**: Memanfaatkan tailwindcss untuk bentuk rumit seperti tampilan fitur melingkar, garis kisi, dan garis samping.
 
-## Laravel Sponsors
+👉 **Latest UI Trends**: Menggabungkan elemen desain modern seperti kisi-kisi bento.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+👉 **Cool Gradients**: Meningkatkan visual dengan gradien bergaya menggunakan Tailwind CSS untuk kartu, tombol, dll.
 
-### Premium Partners
+👉 **AI Generation**: Membuat gambar, video, audio dan live stream dengan fitu AI
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+👉 **Security**: Memastikan keamanan data dengan fitur autentikasi
 
-## Contributing
+## <a name="quick-start">🤸 Quick Start</a>
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Ikuti langkah-langkah ini untuk menyiapkan proyek secara lokal di komputer Anda.
 
-## Code of Conduct
+**Prasyarat**
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Pastikan Anda telah menginstal hal berikut pada komputer Anda:
 
-## Security Vulnerabilities
+-   [Composer](https://getcomposer.org/doc/00-intro.md#installation-windows)
+-   [install php] (https://www.php.net/manual/en/install.php)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+**Cloning the Repository**
 
-## License
+```bash
+git clone https://github.com/denzalamsyah/BE-AsistentDenz.git
+cd BE-AsistentDenz
+```
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+**Installation**
+
+Instal dependensi proyek menggunakan npm:
+
+```bash
+composer install
+```
+
+**Khusus laravel 11+**
+sejak laravel 11 rilis, route api sudah tidak tersedia secara default saat proses instalasi. Tapi jangan khawatir, karena kita tinggal menjalankan perintah berikut!
+
+```bash
+php artisan install:api
+```
+
+**Running the Project**
+
+```bash
+php artisan serve
+```
+
+Open [http://127.0.0.1:8000/api/.....](http://127.0.0.1:8000/api/) in your browser to view the project.
+
+**My Frontend**
+
+Frontend open [https://github.com/denzalamsyah/asistent-denz/blob/main/README.md](https://github.com/denzalamsyah/asistent-denz/blob/main/README.md) in your browser to view the project.
